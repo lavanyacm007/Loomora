@@ -1,0 +1,5 @@
+/* App-specific custom utility classes */
+.backdrop-blur-md {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
